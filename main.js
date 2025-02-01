@@ -13,3 +13,6 @@ window.addEventListener("DOMContentLoaded", function () {
     });
   });
   
+
+
+  const age = 10 
